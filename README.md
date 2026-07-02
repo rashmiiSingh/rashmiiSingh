@@ -7,7 +7,7 @@
 **Building practical AI solutions using Large Language Models, AI Agents, Retrieval-Augmented Generation (RAG), and Modern Backend Technologies.**
 
 <p>
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/rashmii-singh">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -15,11 +15,11 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:rashmi.singh31.w@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/rashmiiSingh">
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
 </a>
 </p>
